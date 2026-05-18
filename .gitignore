@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.env
+.conda/
+
+# macOS/Linux
+.DS_Store
+Thumbs.db
+
+# Data
+data/raw/
+data/temp/
+
+# Results temporales
+results/temp/
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Quarto
+.quarto/
+
+# Cache
+.cache/
