@@ -18,6 +18,7 @@ Thumbs.db
 # Data
 data/raw/
 data/temp/
+data/processed/*
 
 # Results temporales
 results/temp/
